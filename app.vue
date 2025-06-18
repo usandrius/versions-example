@@ -5,7 +5,8 @@
     <div>
       <header>
         <nav>
-          <NuxtLink to="/">Главная</NuxtLink>
+          <NuxtLink to="/">Главная</NuxtLink> | 
+          <NuxtLink to="/about">О нас</NuxtLink>
         </nav>
       </header>
       
